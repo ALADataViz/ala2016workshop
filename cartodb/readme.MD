@@ -1,4 +1,4 @@
-This section is data for CartoDB
+This folder contains data and info for the CartoDB portion of the workshop
 
 -Orlando Crimes
 Source - City of Orlando Open Data https://data.cityoforlando.net/browse
