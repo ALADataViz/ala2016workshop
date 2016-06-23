@@ -25,6 +25,9 @@ Conservation Commission - http://geodata.myfwc.com/datasets/1d4aeb26f9164be4a07b
 8. Birdtracking Data 
 CSV file download and upload directly to CartoDB. (Source and fantastic tutorial - http://lifewatch.inbo.be/blog/posts/cartodb-tracking-data-tutorial.html)
 
+9. Orlando Race Zipped
+Zipfile of a shapefile that has census data joined to census tract boundaries. Upload directly to CartoDB. (Source Social Explorer and US Census Tiger/file.
+
 GoogleSheets code - this is a code that you can add to your google sheets via the "Script Editor" under tools. Once you add and save you can then geocode addresses to lat and long columns. More instructions here - https://github.com/nuket/google-sheets-geocoding-macro
 
 
