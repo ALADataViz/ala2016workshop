@@ -1,6 +1,10 @@
 This folder contains data and info for the CartoDB portion of the workshop
 
+-Orlando Bike Lanes 
+Zipfile of 3 shapefiles. Upload this zipped file directly to CartoDB. You should have 3 layers of different bike lanes and routes.
+
 -Orlando Crimes
+This
 Source - City of Orlando Open Data https://data.cityoforlando.net/browse
 
 -Orlando Building Permits
