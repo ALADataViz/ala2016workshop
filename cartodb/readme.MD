@@ -1,7 +1,7 @@
 This folder contains data and info for the CartoDB portion of the workshop
 
 -Orlando Bike Lanes 
-Zipfile of 3 shapefiles. Upload this zipped file directly to CartoDB. You should have 3 layers of different bike lanes and routes.
+Zipfile of 2 shapefiles. Upload this zipped file directly to CartoDB. You should have 2 layers of different bike lanes, one existing and one proposed.
 
 -Orlando Crimes
 This
