@@ -13,8 +13,9 @@ Source - City of Orlando Open Data - https://data.cityoforlando.net/browse
 
 -Birdtracking Data (and fantastic tutorial) - http://lifewatch.inbo.be/blog/posts/cartodb-tracking-data-tutorial.html
 
--Orlando Historical landmarks and districts
-Source - City of Orlando Open Data and 
+-Orlando Landmarks is a zipfile of a shapefile. Download it and then upload the zipfile directly to CartoDB (Source - City of Orlando Open Data)
+-
+
 
 -Florida Wildlife Observations
 Source - Florida Fish and Wildlife
